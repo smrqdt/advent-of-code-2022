@@ -30,8 +30,9 @@ func part1() {
 
 		bounds := parseLine(text)
 		overlap := countOverlap(bounds)
+		// could have saved some time if I read the task more carefully…
+		// overlapCount += overlap
 		if overlap > 0 {
-			// could have saved some work if I read the task more carefully…
 			overlapCount++
 		}
 
