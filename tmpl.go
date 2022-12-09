@@ -21,8 +21,8 @@ func part1() {
 
 	scanner := bufio.NewScanner(f)
 	for scanner.Scan() {
-		text := scanner.Text()
-		fmt.Printf("%v \n", text)
+		line := scanner.Text()
+		fmt.Printf("%v \n", line)
 	}
 
 	if err := scanner.Err(); err != nil {
