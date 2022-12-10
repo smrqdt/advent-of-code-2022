@@ -1,0 +1,2 @@
+(Part 1) Sum of Priorities of items in both compartments: 7674 
+(Part 2) Sum of Priorities of badges: 2407 

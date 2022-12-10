@@ -1,0 +1,617 @@
+cd /:  
+ls: [dir brdsppd dir dnjqmzgg 126880 fmftdzrp.fwt 173625 hhfqgzfj.qvt dir lbbcfjl dir mzdqcb dir npppw dir plmb 6337 rfgtcj.tdn dir szfw 230140 vmc.cdf] 
+cd brdsppd: /brdsppd 
+ls: [dir gjc dir lcz 218543 ndqmcv dir qnj dir rrdd dir zppsglq] 
+cd gjc: /brdsppd/gjc 
+ls: [dir bvctghh 262132 cbczvmdf 111855 dnltsq.fwv 22416 fnrwscz.vwb dir gwd dir lsprzlbf] 
+cd bvctghh: /brdsppd/gjc/bvctghh 
+ls: [dir lsprzlbf dir lwfgnzz dir tjslbpb] 
+cd lsprzlbf: /brdsppd/gjc/bvctghh/lsprzlbf 
+ls: [182522 hhfqgzfj.qvt dir hts 229288 jtpdh dir lwfgnzz 284594 szfw 89639 tgdsjl] 
+cd hts: /brdsppd/gjc/bvctghh/lsprzlbf/hts 
+ls: [11158 dnltsq.fwv 52582 tchv] 
+cd ..: /brdsppd/gjc/bvctghh/lsprzlbf 
+cd lwfgnzz: /brdsppd/gjc/bvctghh/lsprzlbf/lwfgnzz 
+ls: [dir tjslbpb] 
+cd tjslbpb: /brdsppd/gjc/bvctghh/lsprzlbf/lwfgnzz/tjslbpb 
+ls: [58586 jtzmjgw.bql] 
+cd ..: /brdsppd/gjc/bvctghh/lsprzlbf/lwfgnzz 
+cd ..: /brdsppd/gjc/bvctghh/lsprzlbf 
+cd ..: /brdsppd/gjc/bvctghh 
+cd lwfgnzz: /brdsppd/gjc/bvctghh/lwfgnzz 
+ls: [199598 rlhz.pbs] 
+cd ..: /brdsppd/gjc/bvctghh 
+cd tjslbpb: /brdsppd/gjc/bvctghh/tjslbpb 
+ls: [119666 fmzfs.glg] 
+cd ..: /brdsppd/gjc/bvctghh 
+cd ..: /brdsppd/gjc 
+cd gwd: /brdsppd/gjc/gwd 
+ls: [dir bcfqd 1631 hhfqgzfj.qvt] 
+cd bcfqd: /brdsppd/gjc/gwd/bcfqd 
+ls: [197168 cqvwnslp.ltw] 
+cd ..: /brdsppd/gjc/gwd 
+cd ..: /brdsppd/gjc 
+cd lsprzlbf: /brdsppd/gjc/lsprzlbf 
+ls: [dir jwznh] 
+cd jwznh: /brdsppd/gjc/lsprzlbf/jwznh 
+ls: [dir lpm dir ncs dir vqprn] 
+cd lpm: /brdsppd/gjc/lsprzlbf/jwznh/lpm 
+ls: [15172 bnw.rqm 215818 flpbspn.stt] 
+cd ..: /brdsppd/gjc/lsprzlbf/jwznh 
+cd ncs: /brdsppd/gjc/lsprzlbf/jwznh/ncs 
+ls: [dir rzdbw] 
+cd rzdbw: /brdsppd/gjc/lsprzlbf/jwznh/ncs/rzdbw 
+ls: [15150 cvjldjt.gdc] 
+cd ..: /brdsppd/gjc/lsprzlbf/jwznh/ncs 
+cd ..: /brdsppd/gjc/lsprzlbf/jwznh 
+cd vqprn: /brdsppd/gjc/lsprzlbf/jwznh/vqprn 
+ls: [23882 njjjh] 
+cd ..: /brdsppd/gjc/lsprzlbf/jwznh 
+cd ..: /brdsppd/gjc/lsprzlbf 
+cd ..: /brdsppd/gjc 
+cd ..: /brdsppd 
+cd lcz: /brdsppd/lcz 
+ls: [37587 gwcvttb.dhc 195583 lsprzlbf.vng 152648 tchv] 
+cd ..: /brdsppd 
+cd qnj: /brdsppd/qnj 
+ls: [dir bpvl 275640 cfvznj.bqc dir lwfgnzz 213007 nwbt.mct 135231 twpf.pft 165501 vmc.cdf 88097 vmvs.hnr dir znbdpp] 
+cd bpvl: /brdsppd/qnj/bpvl 
+ls: [dir nmzbpb] 
+cd nmzbpb: /brdsppd/qnj/bpvl/nmzbpb 
+ls: [129477 pjlvs.zcp] 
+cd ..: /brdsppd/qnj/bpvl 
+cd ..: /brdsppd/qnj 
+cd lwfgnzz: /brdsppd/qnj/lwfgnzz 
+ls: [dir lwfgnzz dir rsbdcwjr dir sgh dir wvwmf] 
+cd lwfgnzz: /brdsppd/qnj/lwfgnzz/lwfgnzz 
+ls: [33186 ftcrfnmd] 
+cd ..: /brdsppd/qnj/lwfgnzz 
+cd rsbdcwjr: /brdsppd/qnj/lwfgnzz/rsbdcwjr 
+ls: [dir lsprzlbf] 
+cd lsprzlbf: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf 
+ls: [dir jvcgnbs 288445 pjmqm 111585 szfw.drf dir vnftvqf] 
+cd jvcgnbs: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/jvcgnbs 
+ls: [dir ctlwjnjz dir lwfgnzz dir tjslbpb] 
+cd ctlwjnjz: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/jvcgnbs/ctlwjnjz 
+ls: [72087 zmhnsmmf] 
+cd ..: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/jvcgnbs 
+cd lwfgnzz: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/jvcgnbs/lwfgnzz 
+ls: [151358 sqs] 
+cd ..: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/jvcgnbs 
+cd tjslbpb: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/jvcgnbs/tjslbpb 
+ls: [112471 mftdzhwj.zvt] 
+cd ..: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/jvcgnbs 
+cd ..: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf 
+cd vnftvqf: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf/vnftvqf 
+ls: [120421 lsprzlbf.tqc] 
+cd ..: /brdsppd/qnj/lwfgnzz/rsbdcwjr/lsprzlbf 
+cd ..: /brdsppd/qnj/lwfgnzz/rsbdcwjr 
+cd ..: /brdsppd/qnj/lwfgnzz 
+cd sgh: /brdsppd/qnj/lwfgnzz/sgh 
+ls: [228239 szfw.dzv] 
+cd ..: /brdsppd/qnj/lwfgnzz 
+cd wvwmf: /brdsppd/qnj/lwfgnzz/wvwmf 
+ls: [dir bcjfz] 
+cd bcjfz: /brdsppd/qnj/lwfgnzz/wvwmf/bcjfz 
+ls: [26284 bzhqwdjq.nzn] 
+cd ..: /brdsppd/qnj/lwfgnzz/wvwmf 
+cd ..: /brdsppd/qnj/lwfgnzz 
+cd ..: /brdsppd/qnj 
+cd znbdpp: /brdsppd/qnj/znbdpp 
+ls: [dir szfw] 
+cd szfw: /brdsppd/qnj/znbdpp/szfw 
+ls: [dir nthzqpws dir snfmt] 
+cd nthzqpws: /brdsppd/qnj/znbdpp/szfw/nthzqpws 
+ls: [96382 twhdbvtw.lbj] 
+cd ..: /brdsppd/qnj/znbdpp/szfw 
+cd snfmt: /brdsppd/qnj/znbdpp/szfw/snfmt 
+ls: [133360 bjmgtpgh 134215 vmc.cdf] 
+cd ..: /brdsppd/qnj/znbdpp/szfw 
+cd ..: /brdsppd/qnj/znbdpp 
+cd ..: /brdsppd/qnj 
+cd ..: /brdsppd 
+cd rrdd: /brdsppd/rrdd 
+ls: [185903 cpgpgntt.tfn] 
+cd ..: /brdsppd 
+cd zppsglq: /brdsppd/zppsglq 
+ls: [41689 jvcgnbs.hrt 169754 wgnpq] 
+cd ..: /brdsppd 
+cd ..:  
+cd dnjqmzgg: /dnjqmzgg 
+ls: [dir lsprzlbf dir lwfgnzz dir nmvj dir sfpg] 
+cd lsprzlbf: /dnjqmzgg/lsprzlbf 
+ls: [dir lbw 141416 sqs] 
+cd lbw: /dnjqmzgg/lsprzlbf/lbw 
+ls: [48758 cjv 235522 dnltsq.fwv] 
+cd ..: /dnjqmzgg/lsprzlbf 
+cd ..: /dnjqmzgg 
+cd lwfgnzz: /dnjqmzgg/lwfgnzz 
+ls: [36709 bcmtmwcz] 
+cd ..: /dnjqmzgg 
+cd nmvj: /dnjqmzgg/nmvj 
+ls: [dir dqpw dir tjslbpb] 
+cd dqpw: /dnjqmzgg/nmvj/dqpw 
+ls: [10608 hhfqgzfj.qvt] 
+cd ..: /dnjqmzgg/nmvj 
+cd tjslbpb: /dnjqmzgg/nmvj/tjslbpb 
+ls: [261140 qfzb] 
+cd ..: /dnjqmzgg/nmvj 
+cd ..: /dnjqmzgg 
+cd sfpg: /dnjqmzgg/sfpg 
+ls: [8543 szfw 69248 tjslbpb] 
+cd ..: /dnjqmzgg 
+cd ..:  
+cd lbbcfjl: /lbbcfjl 
+ls: [dir csnjp dir drwpfn 301956 hhfqgzfj.qvt dir jvcgnbs dir lsprzlbf dir pdzlnm 161886 tchv 153858 vmc.cdf 87849 wghtg dir zhgchnld] 
+cd csnjp: /lbbcfjl/csnjp 
+ls: [dir ffgfmcm dir gtd dir lbjvqv dir lwfgnzz 11312 sqs] 
+cd ffgfmcm: /lbbcfjl/csnjp/ffgfmcm 
+ls: [dir bcnvw dir lcf dir lsprzlbf] 
+cd bcnvw: /lbbcfjl/csnjp/ffgfmcm/bcnvw 
+ls: [111692 ftcvs.tcz 173665 jpfh.hrs 120561 lwfgnzz.zvd dir ngtbzz 29479 tchv dir tjslbpb] 
+cd ngtbzz: /lbbcfjl/csnjp/ffgfmcm/bcnvw/ngtbzz 
+ls: [dir czrqmh dir jrhpnpw dir lsprzlbf] 
+cd czrqmh: /lbbcfjl/csnjp/ffgfmcm/bcnvw/ngtbzz/czrqmh 
+ls: [225055 hhfqgzfj.qvt] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/bcnvw/ngtbzz 
+cd jrhpnpw: /lbbcfjl/csnjp/ffgfmcm/bcnvw/ngtbzz/jrhpnpw 
+ls: [206497 tjslbpb.zbv] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/bcnvw/ngtbzz 
+cd lsprzlbf: /lbbcfjl/csnjp/ffgfmcm/bcnvw/ngtbzz/lsprzlbf 
+ls: [66627 szfw.wtd] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/bcnvw/ngtbzz 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/bcnvw 
+cd tjslbpb: /lbbcfjl/csnjp/ffgfmcm/bcnvw/tjslbpb 
+ls: [dir cgzlp 116060 lsprzlbf dir szfw 128885 zht.ptf] 
+cd cgzlp: /lbbcfjl/csnjp/ffgfmcm/bcnvw/tjslbpb/cgzlp 
+ls: [18201 sqs] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/bcnvw/tjslbpb 
+cd szfw: /lbbcfjl/csnjp/ffgfmcm/bcnvw/tjslbpb/szfw 
+ls: [104128 tchv] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/bcnvw/tjslbpb 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/bcnvw 
+cd ..: /lbbcfjl/csnjp/ffgfmcm 
+cd lcf: /lbbcfjl/csnjp/ffgfmcm/lcf 
+ls: [137662 lwfgnzz] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm 
+cd lsprzlbf: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf 
+ls: [151745 fmcgs.tvh 37707 gszw.jlm dir lsprzlbf 178133 rjw.wrq dir szw 267875 tchv 198852 vmc.cdf] 
+cd lsprzlbf: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/lsprzlbf 
+ls: [54734 lsprzlbf.hcq 81537 lwfgnzz 120990 qppfdrf] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf 
+cd szw: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw 
+ls: [dir jtvschrd dir zcnpls] 
+cd jtvschrd: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw/jtvschrd 
+ls: [dir gtz] 
+cd gtz: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw/jtvschrd/gtz 
+ls: [dir rdzzlm] 
+cd rdzzlm: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw/jtvschrd/gtz/rdzzlm 
+ls: [55063 tchv 8813 zfwvvpvz.zzb] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw/jtvschrd/gtz 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw/jtvschrd 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw 
+cd zcnpls: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw/zcnpls 
+ls: [282808 dpmd] 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf/szw 
+cd ..: /lbbcfjl/csnjp/ffgfmcm/lsprzlbf 
+cd ..: /lbbcfjl/csnjp/ffgfmcm 
+cd ..: /lbbcfjl/csnjp 
+cd gtd: /lbbcfjl/csnjp/gtd 
+ls: [148653 cmchsg.zdr 66537 hhfqgzfj.qvt 125493 mdtmqbml.gnt dir rwjdjqcs dir tjslbpb] 
+cd rwjdjqcs: /lbbcfjl/csnjp/gtd/rwjdjqcs 
+ls: [77026 zpt.gfp] 
+cd ..: /lbbcfjl/csnjp/gtd 
+cd tjslbpb: /lbbcfjl/csnjp/gtd/tjslbpb 
+ls: [dir dfl] 
+cd dfl: /lbbcfjl/csnjp/gtd/tjslbpb/dfl 
+ls: [203731 qpsmsjgh.gvs dir tjslbpb 84386 vmc.cdf dir zgh] 
+cd tjslbpb: /lbbcfjl/csnjp/gtd/tjslbpb/dfl/tjslbpb 
+ls: [dir lwfgnzz 140021 qnp 312305 svh.vqt] 
+cd lwfgnzz: /lbbcfjl/csnjp/gtd/tjslbpb/dfl/tjslbpb/lwfgnzz 
+ls: [49701 lgffdn.gmr] 
+cd ..: /lbbcfjl/csnjp/gtd/tjslbpb/dfl/tjslbpb 
+cd ..: /lbbcfjl/csnjp/gtd/tjslbpb/dfl 
+cd zgh: /lbbcfjl/csnjp/gtd/tjslbpb/dfl/zgh 
+ls: [138627 tchv] 
+cd ..: /lbbcfjl/csnjp/gtd/tjslbpb/dfl 
+cd ..: /lbbcfjl/csnjp/gtd/tjslbpb 
+cd ..: /lbbcfjl/csnjp/gtd 
+cd ..: /lbbcfjl/csnjp 
+cd lbjvqv: /lbbcfjl/csnjp/lbjvqv 
+ls: [dir bnl] 
+cd bnl: /lbbcfjl/csnjp/lbjvqv/bnl 
+ls: [dir gbv dir lwfgnzz] 
+cd gbv: /lbbcfjl/csnjp/lbjvqv/bnl/gbv 
+ls: [dir lsprzlbf 36406 lsprzlbf.cfd] 
+cd lsprzlbf: /lbbcfjl/csnjp/lbjvqv/bnl/gbv/lsprzlbf 
+ls: [168615 hlhp.rvp] 
+cd ..: /lbbcfjl/csnjp/lbjvqv/bnl/gbv 
+cd ..: /lbbcfjl/csnjp/lbjvqv/bnl 
+cd lwfgnzz: /lbbcfjl/csnjp/lbjvqv/bnl/lwfgnzz 
+ls: [149511 cdpwjbpd] 
+cd ..: /lbbcfjl/csnjp/lbjvqv/bnl 
+cd ..: /lbbcfjl/csnjp/lbjvqv 
+cd ..: /lbbcfjl/csnjp 
+cd lwfgnzz: /lbbcfjl/csnjp/lwfgnzz 
+ls: [232898 dnltsq.fwv 181665 hhfqgzfj.qvt 62529 qfmhhvvq.prh 57822 sqs] 
+cd ..: /lbbcfjl/csnjp 
+cd ..: /lbbcfjl 
+cd drwpfn: /lbbcfjl/drwpfn 
+ls: [dir fvgw dir lsprzlbf dir lwfgnzz 104745 nqvlqd.mdb 203189 qqpmz 159549 tchv dir tjslbpb dir wnrns] 
+cd fvgw: /lbbcfjl/drwpfn/fvgw 
+ls: [dir tlzmplfl] 
+cd tlzmplfl: /lbbcfjl/drwpfn/fvgw/tlzmplfl 
+ls: [29740 vmc.cdf 30062 wgrm.dst 181738 zqr] 
+cd ..: /lbbcfjl/drwpfn/fvgw 
+cd ..: /lbbcfjl/drwpfn 
+cd lsprzlbf: /lbbcfjl/drwpfn/lsprzlbf 
+ls: [dir lcqhctjl dir ldr dir tjslbpb] 
+cd lcqhctjl: /lbbcfjl/drwpfn/lsprzlbf/lcqhctjl 
+ls: [209114 bcfr.gpf] 
+cd ..: /lbbcfjl/drwpfn/lsprzlbf 
+cd ldr: /lbbcfjl/drwpfn/lsprzlbf/ldr 
+ls: [148649 fzh.pqm] 
+cd ..: /lbbcfjl/drwpfn/lsprzlbf 
+cd tjslbpb: /lbbcfjl/drwpfn/lsprzlbf/tjslbpb 
+ls: [241013 dnltsq.fwv] 
+cd ..: /lbbcfjl/drwpfn/lsprzlbf 
+cd ..: /lbbcfjl/drwpfn 
+cd lwfgnzz: /lbbcfjl/drwpfn/lwfgnzz 
+ls: [288335 cdctnn 67277 tchv] 
+cd ..: /lbbcfjl/drwpfn 
+cd tjslbpb: /lbbcfjl/drwpfn/tjslbpb 
+ls: [dir pblzrspg dir qqgddb 86103 sqs 183539 tjslbpb.wrs] 
+cd pblzrspg: /lbbcfjl/drwpfn/tjslbpb/pblzrspg 
+ls: [dir pgl] 
+cd pgl: /lbbcfjl/drwpfn/tjslbpb/pblzrspg/pgl 
+ls: [305421 lwfgnzz.jdz 114244 tjslbpb dir vzff] 
+cd vzff: /lbbcfjl/drwpfn/tjslbpb/pblzrspg/pgl/vzff 
+ls: [80591 rlww.htq 86968 sqs] 
+cd ..: /lbbcfjl/drwpfn/tjslbpb/pblzrspg/pgl 
+cd ..: /lbbcfjl/drwpfn/tjslbpb/pblzrspg 
+cd ..: /lbbcfjl/drwpfn/tjslbpb 
+cd qqgddb: /lbbcfjl/drwpfn/tjslbpb/qqgddb 
+ls: [dir szfw] 
+cd szfw: /lbbcfjl/drwpfn/tjslbpb/qqgddb/szfw 
+ls: [dir jtw] 
+cd jtw: /lbbcfjl/drwpfn/tjslbpb/qqgddb/szfw/jtw 
+ls: [263 szfw.lzp] 
+cd ..: /lbbcfjl/drwpfn/tjslbpb/qqgddb/szfw 
+cd ..: /lbbcfjl/drwpfn/tjslbpb/qqgddb 
+cd ..: /lbbcfjl/drwpfn/tjslbpb 
+cd ..: /lbbcfjl/drwpfn 
+cd wnrns: /lbbcfjl/drwpfn/wnrns 
+ls: [203725 dnltsq.fwv 77752 qrg.fnt] 
+cd ..: /lbbcfjl/drwpfn 
+cd ..: /lbbcfjl 
+cd jvcgnbs: /lbbcfjl/jvcgnbs 
+ls: [296356 lwfgnzz.svf 294928 ptvdsngf] 
+cd ..: /lbbcfjl 
+cd lsprzlbf: /lbbcfjl/lsprzlbf 
+ls: [dir lwfgnzz dir tjslbpb] 
+cd lwfgnzz: /lbbcfjl/lsprzlbf/lwfgnzz 
+ls: [105095 tchv] 
+cd ..: /lbbcfjl/lsprzlbf 
+cd tjslbpb: /lbbcfjl/lsprzlbf/tjslbpb 
+ls: [53558 hhfqgzfj.qvt 189180 szfw] 
+cd ..: /lbbcfjl/lsprzlbf 
+cd ..: /lbbcfjl 
+cd pdzlnm: /lbbcfjl/pdzlnm 
+ls: [76426 jwttcp.rjj dir lsprzlbf dir qldhzf dir rtdsjf dir sfdtljj 69033 slhl.jst] 
+cd lsprzlbf: /lbbcfjl/pdzlnm/lsprzlbf 
+ls: [71362 vgdr] 
+cd ..: /lbbcfjl/pdzlnm 
+cd qldhzf: /lbbcfjl/pdzlnm/qldhzf 
+ls: [303106 lsprzlbf.rbq] 
+cd ..: /lbbcfjl/pdzlnm 
+cd rtdsjf: /lbbcfjl/pdzlnm/rtdsjf 
+ls: [45781 pzbgwrdm.lwt dir rzc] 
+cd rzc: /lbbcfjl/pdzlnm/rtdsjf/rzc 
+ls: [297081 qqvlp 86015 zthlr] 
+cd ..: /lbbcfjl/pdzlnm/rtdsjf 
+cd ..: /lbbcfjl/pdzlnm 
+cd sfdtljj: /lbbcfjl/pdzlnm/sfdtljj 
+ls: [254377 ftw.fwg dir jvcgnbs 153393 lwfgnzz.dws dir pnphc 220821 wslttcn] 
+cd jvcgnbs: /lbbcfjl/pdzlnm/sfdtljj/jvcgnbs 
+ls: [92642 bzpvvlsn.gvt] 
+cd ..: /lbbcfjl/pdzlnm/sfdtljj 
+cd pnphc: /lbbcfjl/pdzlnm/sfdtljj/pnphc 
+ls: [288388 lwfgnzz] 
+cd ..: /lbbcfjl/pdzlnm/sfdtljj 
+cd ..: /lbbcfjl/pdzlnm 
+cd ..: /lbbcfjl 
+cd zhgchnld: /lbbcfjl/zhgchnld 
+ls: [16588 ftgrpj.srl 112044 vmc.cdf] 
+cd ..: /lbbcfjl 
+cd ..:  
+cd mzdqcb: /mzdqcb 
+ls: [dir bfphcs dir cgjmj dir jgcqqsh dir jvcgnbs dir lccjbtqs dir lwfgnzz dir pprvjm dir szfw dir tjslbpb dir ztc] 
+cd bfphcs: /mzdqcb/bfphcs 
+ls: [124148 wzt.qtr] 
+cd ..: /mzdqcb 
+cd cgjmj: /mzdqcb/cgjmj 
+ls: [28095 ddjdbdf dir jvcgnbs 169536 sqs dir svbsrj 159511 vmc.cdf] 
+cd jvcgnbs: /mzdqcb/cgjmj/jvcgnbs 
+ls: [dir crmsnch dir jvcgnbs] 
+cd crmsnch: /mzdqcb/cgjmj/jvcgnbs/crmsnch 
+ls: [195745 lsprzlbf.prh 271424 tjslbpb 227054 vmc.cdf] 
+cd ..: /mzdqcb/cgjmj/jvcgnbs 
+cd jvcgnbs: /mzdqcb/cgjmj/jvcgnbs/jvcgnbs 
+ls: [294249 vmc.cdf] 
+cd ..: /mzdqcb/cgjmj/jvcgnbs 
+cd ..: /mzdqcb/cgjmj 
+cd svbsrj: /mzdqcb/cgjmj/svbsrj 
+ls: [49038 cspzcpqs dir czltsqrg 98084 ljhljcw dir ntdjg 202570 szfw.lpj] 
+cd czltsqrg: /mzdqcb/cgjmj/svbsrj/czltsqrg 
+ls: [207690 dnltsq.fwv 208745 lnns.hsv 40703 rgmjszf.vtd] 
+cd ..: /mzdqcb/cgjmj/svbsrj 
+cd ntdjg: /mzdqcb/cgjmj/svbsrj/ntdjg 
+ls: [dir szfw] 
+cd szfw: /mzdqcb/cgjmj/svbsrj/ntdjg/szfw 
+ls: [284994 qzwptr.ggb] 
+cd ..: /mzdqcb/cgjmj/svbsrj/ntdjg 
+cd ..: /mzdqcb/cgjmj/svbsrj 
+cd ..: /mzdqcb/cgjmj 
+cd ..: /mzdqcb 
+cd jgcqqsh: /mzdqcb/jgcqqsh 
+ls: [2462 djfwggvp] 
+cd ..: /mzdqcb 
+cd jvcgnbs: /mzdqcb/jvcgnbs 
+ls: [dir ftjprdj 289965 zhlrstpt] 
+cd ftjprdj: /mzdqcb/jvcgnbs/ftjprdj 
+ls: [dir wnmhs] 
+cd wnmhs: /mzdqcb/jvcgnbs/ftjprdj/wnmhs 
+ls: [dir tjslbpb] 
+cd tjslbpb: /mzdqcb/jvcgnbs/ftjprdj/wnmhs/tjslbpb 
+ls: [dir jvcgnbs] 
+cd jvcgnbs: /mzdqcb/jvcgnbs/ftjprdj/wnmhs/tjslbpb/jvcgnbs 
+ls: [160761 dnltsq.fwv] 
+cd ..: /mzdqcb/jvcgnbs/ftjprdj/wnmhs/tjslbpb 
+cd ..: /mzdqcb/jvcgnbs/ftjprdj/wnmhs 
+cd ..: /mzdqcb/jvcgnbs/ftjprdj 
+cd ..: /mzdqcb/jvcgnbs 
+cd ..: /mzdqcb 
+cd lccjbtqs: /mzdqcb/lccjbtqs 
+ls: [dir jjrdbgtg 77186 sqs 116398 szfw.qjt 182665 vmc.cdf 248366 vqdjwsh] 
+cd jjrdbgtg: /mzdqcb/lccjbtqs/jjrdbgtg 
+ls: [237358 bdvbjs.sjp] 
+cd ..: /mzdqcb/lccjbtqs 
+cd ..: /mzdqcb 
+cd lwfgnzz: /mzdqcb/lwfgnzz 
+ls: [dir ggptdvr dir jnb dir lcpmzpr 222506 lsprzlbf 293605 qbjfqh dir smvwg 291643 tchv 247095 vwdstb.pdw dir wghpmnm dir wtrbfrj] 
+cd ggptdvr: /mzdqcb/lwfgnzz/ggptdvr 
+ls: [184198 vmc.cdf] 
+cd ..: /mzdqcb/lwfgnzz 
+cd jnb: /mzdqcb/lwfgnzz/jnb 
+ls: [296536 dnltsq.fwv 91419 jvcgnbs.cvq 279635 rwt.wth] 
+cd ..: /mzdqcb/lwfgnzz 
+cd lcpmzpr: /mzdqcb/lwfgnzz/lcpmzpr 
+ls: [184769 hhfqgzfj.qvt dir qwqcbdms 236533 tjslbpb.bnc 162397 vmvctfnw dir wcc] 
+cd qwqcbdms: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms 
+ls: [232132 jgm.tfm dir jnfmcnfh 173727 mwrbndt dir qshphcb dir tjslbpb] 
+cd jnfmcnfh: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms/jnfmcnfh 
+ls: [dir rngnt] 
+cd rngnt: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms/jnfmcnfh/rngnt 
+ls: [236114 hhfqgzfj.qvt] 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms/jnfmcnfh 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms 
+cd qshphcb: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms/qshphcb 
+ls: [78407 lsprzlbf.hpd] 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms 
+cd tjslbpb: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms/tjslbpb 
+ls: [30200 brbz 171368 jvcgnbs.vwl 236158 sqs 285872 srfwnmb dir znr] 
+cd znr: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms/tjslbpb/znr 
+ls: [108194 hhfqgzfj.qvt] 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms/tjslbpb 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr/qwqcbdms 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr 
+cd wcc: /mzdqcb/lwfgnzz/lcpmzpr/wcc 
+ls: [167768 jvcgnbs 289640 lgthn.cjn 28517 lwfgnzz.chf dir nvgfwn 43738 rrg 81011 sqs] 
+cd nvgfwn: /mzdqcb/lwfgnzz/lcpmzpr/wcc/nvgfwn 
+ls: [270370 hgnv.ssj 98235 lwfgnzz.nfv] 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr/wcc 
+cd ..: /mzdqcb/lwfgnzz/lcpmzpr 
+cd ..: /mzdqcb/lwfgnzz 
+cd smvwg: /mzdqcb/lwfgnzz/smvwg 
+ls: [dir jvcgnbs 77510 tchv dir tgrm] 
+cd jvcgnbs: /mzdqcb/lwfgnzz/smvwg/jvcgnbs 
+ls: [287955 bqcnj.zzv 119021 bsrtmzd 3391 cnngp.mbf 68540 qjmb.vjz 149062 tchv] 
+cd ..: /mzdqcb/lwfgnzz/smvwg 
+cd tgrm: /mzdqcb/lwfgnzz/smvwg/tgrm 
+ls: [112315 qzth 277566 scqp] 
+cd ..: /mzdqcb/lwfgnzz/smvwg 
+cd ..: /mzdqcb/lwfgnzz 
+cd wghpmnm: /mzdqcb/lwfgnzz/wghpmnm 
+ls: [dir hpm] 
+cd hpm: /mzdqcb/lwfgnzz/wghpmnm/hpm 
+ls: [113354 hhfqgzfj.qvt] 
+cd ..: /mzdqcb/lwfgnzz/wghpmnm 
+cd ..: /mzdqcb/lwfgnzz 
+cd wtrbfrj: /mzdqcb/lwfgnzz/wtrbfrj 
+ls: [dir ggrsgzvv dir mvzzsl dir szfw dir vsqjb] 
+cd ggrsgzvv: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv 
+ls: [dir dpv dir gqtsmnr dir lsprzlbf dir pcjcm 137203 tchv 84711 tns.sdh] 
+cd dpv: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/dpv 
+ls: [233264 dmd dir fzlchpb 293097 gwmspnm.qtp 100283 jbbnssc.nnv] 
+cd fzlchpb: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/dpv/fzlchpb 
+ls: [150431 pdmzrs.rll] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/dpv 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv 
+cd gqtsmnr: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr 
+ls: [dir jdml dir jfqtjt dir lwfgnzz dir tjslbpb] 
+cd jdml: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml 
+ls: [148333 bwm.dnt dir lsprzlbf] 
+cd lsprzlbf: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf 
+ls: [dir cslvm dir lwfgnzz dir rllt 265856 sqs dir szfw 56452 tchv] 
+cd cslvm: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/cslvm 
+ls: [266380 vmc.cdf] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf 
+cd lwfgnzz: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz 
+ls: [dir tzghdrd] 
+cd tzghdrd: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd 
+ls: [dir tjslbpb dir vhv] 
+cd tjslbpb: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd/tjslbpb 
+ls: [dir jvcgnbs] 
+cd jvcgnbs: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd/tjslbpb/jvcgnbs 
+ls: [18188 sqs] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd/tjslbpb 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd 
+cd vhv: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd/vhv 
+ls: [95547 jhhblnn.vzt dir srgh] 
+cd srgh: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd/vhv/srgh 
+ls: [299624 lsprzlbf.dnr] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd/vhv 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz/tzghdrd 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/lwfgnzz 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf 
+cd rllt: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/rllt 
+ls: [dir crpcbl 308185 dnltsq.fwv dir szfw] 
+cd crpcbl: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/rllt/crpcbl 
+ls: [209445 dfds.mzh] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/rllt 
+cd szfw: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/rllt/szfw 
+ls: [dir lsprzlbf 159720 vmc.cdf] 
+cd lsprzlbf: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/rllt/szfw/lsprzlbf 
+ls: [291090 tzrvpv] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/rllt/szfw 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/rllt 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf 
+cd szfw: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf/szfw 
+ls: [113605 fbrtbfjm] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml/lsprzlbf 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jdml 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr 
+cd jfqtjt: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jfqtjt 
+ls: [119124 hhfqgzfj.qvt 251412 jvcgnbs.zfm dir rbv dir tjslbpb 142371 tjslbpb.czt 65455 vmc.cdf 47786 zjmtjsv] 
+cd rbv: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jfqtjt/rbv 
+ls: [300632 dzssgm.pqn] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jfqtjt 
+cd tjslbpb: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jfqtjt/tjslbpb 
+ls: [221545 pswrb.bsw] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/jfqtjt 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr 
+cd lwfgnzz: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/lwfgnzz 
+ls: [34086 wshbr.spm] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr 
+cd tjslbpb: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr/tjslbpb 
+ls: [118394 djfwjd.fvl 65377 qmgcpdr.qjz 146317 tchv] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/gqtsmnr 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv 
+cd lsprzlbf: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/lsprzlbf 
+ls: [195086 clqmgmq.gbw dir cpgjgbdf 109787 jmwshtg.snl 305108 lsprzlbf dir szfw 174614 szfw.qjq 105247 vmcf.rsm] 
+cd cpgjgbdf: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/lsprzlbf/cpgjgbdf 
+ls: [dir vzddwsr] 
+cd vzddwsr: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/lsprzlbf/cpgjgbdf/vzddwsr 
+ls: [91787 nwgfs] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/lsprzlbf/cpgjgbdf 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/lsprzlbf 
+cd szfw: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/lsprzlbf/szfw 
+ls: [193316 tjslbpb] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/lsprzlbf 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv 
+cd pcjcm: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/pcjcm 
+ls: [dir lsprzlbf] 
+cd lsprzlbf: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/pcjcm/lsprzlbf 
+ls: [210834 hvrpj.cdc 29497 wcnf] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv/pcjcm 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/ggrsgzvv 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj 
+cd mvzzsl: /mzdqcb/lwfgnzz/wtrbfrj/mvzzsl 
+ls: [dir rnrtf] 
+cd rnrtf: /mzdqcb/lwfgnzz/wtrbfrj/mvzzsl/rnrtf 
+ls: [221025 btwgwrp.ctj] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/mvzzsl 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj 
+cd szfw: /mzdqcb/lwfgnzz/wtrbfrj/szfw 
+ls: [dir jvcgnbs dir szfw 31365 tjslbpb] 
+cd jvcgnbs: /mzdqcb/lwfgnzz/wtrbfrj/szfw/jvcgnbs 
+ls: [250409 lwfgnzz.nvf 66638 tchv dir tlms] 
+cd tlms: /mzdqcb/lwfgnzz/wtrbfrj/szfw/jvcgnbs/tlms 
+ls: [84192 lsprzlbf.pcm 107549 nwqzqcmw.rls 97234 svdqvwcz] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/szfw/jvcgnbs 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/szfw 
+cd szfw: /mzdqcb/lwfgnzz/wtrbfrj/szfw/szfw 
+ls: [45362 zsflqrtc] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/szfw 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj 
+cd vsqjb: /mzdqcb/lwfgnzz/wtrbfrj/vsqjb 
+ls: [dir vvnzdcbb] 
+cd vvnzdcbb: /mzdqcb/lwfgnzz/wtrbfrj/vsqjb/vvnzdcbb 
+ls: [144027 tchv] 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj/vsqjb 
+cd ..: /mzdqcb/lwfgnzz/wtrbfrj 
+cd ..: /mzdqcb/lwfgnzz 
+cd ..: /mzdqcb 
+cd pprvjm: /mzdqcb/pprvjm 
+ls: [dir hvst 137237 lwfgnzz.qfp dir szfw] 
+cd hvst: /mzdqcb/pprvjm/hvst 
+ls: [100531 svmvncf] 
+cd ..: /mzdqcb/pprvjm 
+cd szfw: /mzdqcb/pprvjm/szfw 
+ls: [233868 hhfqgzfj.qvt] 
+cd ..: /mzdqcb/pprvjm 
+cd ..: /mzdqcb 
+cd szfw: /mzdqcb/szfw 
+ls: [14971 tchv] 
+cd ..: /mzdqcb 
+cd tjslbpb: /mzdqcb/tjslbpb 
+ls: [283684 lwfgnzz.wzv] 
+cd ..: /mzdqcb 
+cd ztc: /mzdqcb/ztc 
+ls: [dir bwhfncdm 161420 jvcgnbs 135102 tchv] 
+cd bwhfncdm: /mzdqcb/ztc/bwhfncdm 
+ls: [108615 lwfgnzz.msn] 
+cd ..: /mzdqcb/ztc 
+cd ..: /mzdqcb 
+cd ..:  
+cd npppw: /npppw 
+ls: [94593 cwdz.tlb 258598 jsswljc 245674 nmmfzscz] 
+cd ..:  
+cd plmb: /plmb 
+ls: [dir dwnpl dir lwfgnzz] 
+cd dwnpl: /plmb/dwnpl 
+ls: [15993 hhfqgzfj.qvt 264944 vmc.cdf] 
+cd ..: /plmb 
+cd lwfgnzz: /plmb/lwfgnzz 
+ls: [154801 cnbmh.hsh] 
+cd ..: /plmb 
+cd ..:  
+cd szfw: /szfw 
+ls: [173334 lsprzlbf dir lwfgnzz 70693 szfw] 
+cd lwfgnzz: /szfw/lwfgnzz 
+ls: [dir jgwzcgd dir qgdcjq dir spwcmrl] 
+cd jgwzcgd: /szfw/lwfgnzz/jgwzcgd 
+ls: [dir jvcgnbs dir nvtvcf] 
+cd jvcgnbs: /szfw/lwfgnzz/jgwzcgd/jvcgnbs 
+ls: [131852 cntlhf.mqq 217305 dnltsq.fwv 174110 jvcgnbs.njb 179602 lwfgnzz.mth dir pzcssdhv dir qcmqmnpn 227361 szfw dir wmhhl] 
+cd pzcssdhv: /szfw/lwfgnzz/jgwzcgd/jvcgnbs/pzcssdhv 
+ls: [187518 gjfwbwnv 115671 lsprzlbf] 
+cd ..: /szfw/lwfgnzz/jgwzcgd/jvcgnbs 
+cd qcmqmnpn: /szfw/lwfgnzz/jgwzcgd/jvcgnbs/qcmqmnpn 
+ls: [197002 dlns 40030 mmpp.ggt 198158 tchv] 
+cd ..: /szfw/lwfgnzz/jgwzcgd/jvcgnbs 
+cd wmhhl: /szfw/lwfgnzz/jgwzcgd/jvcgnbs/wmhhl 
+ls: [168011 hhfqgzfj.qvt] 
+cd ..: /szfw/lwfgnzz/jgwzcgd/jvcgnbs 
+cd ..: /szfw/lwfgnzz/jgwzcgd 
+cd nvtvcf: /szfw/lwfgnzz/jgwzcgd/nvtvcf 
+ls: [dir rrzjjjhc] 
+cd rrzjjjhc: /szfw/lwfgnzz/jgwzcgd/nvtvcf/rrzjjjhc 
+ls: [33548 sqs] 
+cd ..: /szfw/lwfgnzz/jgwzcgd/nvtvcf 
+cd ..: /szfw/lwfgnzz/jgwzcgd 
+cd ..: /szfw/lwfgnzz 
+cd qgdcjq: /szfw/lwfgnzz/qgdcjq 
+ls: [252274 prshd.qdj] 
+cd ..: /szfw/lwfgnzz 
+cd spwcmrl: /szfw/lwfgnzz/spwcmrl 
+ls: [dir lslmr dir szfw 135076 tchv 265608 vmc.cdf] 
+cd lslmr: /szfw/lwfgnzz/spwcmrl/lslmr 
+ls: [172247 rrvwsbl] 
+cd ..: /szfw/lwfgnzz/spwcmrl 
+cd szfw: /szfw/lwfgnzz/spwcmrl/szfw 
+ls: [192729 rnq] 
+(Part 1) Total Size of all Directories not larger than 100000: 1644735
+            Unused Space: 28727379 
+Missing Space for Update: 1272621 
+(Part 2) Deleting the directory /lbbcfjl/csnjp/ffgfmcm/bcnvw would free up 1300850 

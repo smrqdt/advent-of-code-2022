@@ -1,0 +1,2 @@
+(Part 1) Numer of visited positions with 2 knots: 6212 
+(Part 2) Numer of visited positions with 10 knots: 2522 
