@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"math/big"
 	"os"
 	"regexp"
 	"sort"
@@ -10,13 +11,20 @@ import (
 	"strings"
 )
 
-const InputFile = "day11/input.txt"
+const InputFile = "day11/demo.txt"
+
+var zero = big.NewInt(0)
 
 func main() {
-	part1()
+	part1 := monkeyBusiness(big.NewInt(3), 20)
+	fmt.Printf("(Part 1) Monkey Business: %d \n", part1)
+	fmt.Println()
+	part2 := monkeyBusiness(nil, 10000)
+	fmt.Printf("(Part 2) Monkey Business: %d \n", part2)
+
 }
 
-func part1() {
+func monkeyBusiness(worryDivisor *big.Int, rounds int) int {
 	f, err := os.Open(InputFile)
 	if err != nil {
 		panic(fmt.Sprintf("Could not open file %v \n", err))
@@ -29,7 +37,9 @@ func part1() {
 	for scanner.Scan() {
 		line := scanner.Text()
 		if line == "" {
-			monkeys = append(monkeys, ParseMonkey(section))
+			monkey := ParseMonkey(section)
+			fmt.Println(monkey)
+			monkeys = append(monkeys, monkey)
 			section = []string{}
 			continue
 		}
@@ -39,17 +49,16 @@ func part1() {
 		monkeys = append(monkeys, ParseMonkey(section))
 	}
 
-	const ROUNDS = 20
-	for round := 1; round <= ROUNDS; round++ {
+	for round := 1; round <= rounds; round++ {
 		fmt.Printf("===== Round %2d =====\n", round)
 		for i := range monkeys {
-			monkeys[i].ThrowItems(&monkeys)
+			monkeys[i].ThrowItems(&monkeys, worryDivisor)
 		}
 		for i := range monkeys {
 			fmt.Println(monkeys[i])
 		}
-		fmt.Println()
 	}
+	fmt.Println()
 
 	if err := scanner.Err(); err != nil {
 		panic(err)
@@ -59,36 +68,37 @@ func part1() {
 		return monkeys[i].InspectionCount > monkeys[j].InspectionCount
 	})
 
-	monkeyBusiness := monkeys[0].InspectionCount * monkeys[1].InspectionCount
+	return monkeys[0].InspectionCount * monkeys[1].InspectionCount
 
-	fmt.Printf("(Part 1) Monkey Business: %d \n", monkeyBusiness)
 }
 
 type Monkey struct {
 	ID              int
-	Items           []int
-	Op              func(int) int
-	Next            func(int) int
+	Items           []*big.Int
+	Op              func(*big.Int) *big.Int
+	Next            func(*big.Int) int
 	InspectionCount int
 }
 
-func (m *Monkey) ThrowItems(monkeys *[]Monkey) {
-	for _, worry := range m.Items {
-		worry = m.Op(worry)
+func (m *Monkey) ThrowItems(monkeys *[]Monkey, worryDivisor *big.Int) {
+	for _, item := range m.Items {
+		m.Op(item)
 		m.InspectionCount++
-		worry /= 3
-		next := m.Next(worry)
-		(*monkeys)[next].Catch(worry)
+		if worryDivisor != nil {
+			item.Div(item, worryDivisor)
+		}
+		next := m.Next(item)
+		(*monkeys)[next].Catch(item)
 	}
 	m.Items = nil
 }
 
-func (m *Monkey) Catch(item int) {
+func (m *Monkey) Catch(item *big.Int) {
 	m.Items = append(m.Items, item)
 }
 
 func (m Monkey) String() string {
-	return fmt.Sprintf("Monkey %d: %d (%d Items inspected)", m.ID, m.Items, m.InspectionCount)
+	return fmt.Sprintf("Monkey %d: %d Items inspected", m.ID, m.InspectionCount)
 }
 
 // Parser
@@ -112,21 +122,21 @@ func parseID(line string) (id int) {
 	return
 }
 
-func parseStartingNumbers(line string) (items []int) {
+func parseStartingNumbers(line string) (items []*big.Int) {
 	//   Starting items: 79, 98
 	re := regexp.MustCompile(`Starting items: ((?:\d+(?:, )?)+)`)
 	itemsMatchStr := re.FindStringSubmatch(line)[1]
 	for _, itemStr := range strings.Split(itemsMatchStr, ", ") {
-		item, err := strconv.Atoi(itemStr)
+		item, err := strconv.ParseInt(itemStr, 10, 64)
 		if err != nil {
 			panic(err)
 		}
-		items = append(items, item)
+		items = append(items, big.NewInt(item))
 	}
 	return
 }
 
-func parseOp(line string) (opFn func(int) int) {
+func parseOp(line string) (opFn func(*big.Int) *big.Int) {
 	// Operation: new = old * 19
 	re := regexp.MustCompile(`Operation: new = old (\+|\*) (\d+|old)`)
 	opMatches := re.FindStringSubmatch(line)
@@ -134,38 +144,40 @@ func parseOp(line string) (opFn func(int) int) {
 	if opMatches[2] == "old" {
 		switch opMatches[1] {
 		case "+":
-			return func(old int) int {
-				return old + old
+			return func(old *big.Int) *big.Int {
+				return old.Add(old, old)
 			}
 		case "*":
-			return func(old int) int {
-				return old * old
+			return func(old *big.Int) *big.Int {
+				return old.Mul(old, old)
 			}
 		}
 	} else {
-		number, err := strconv.Atoi(opMatches[2])
+		numberUint, err := strconv.ParseInt(opMatches[2], 10, 64)
+		number := big.NewInt(numberUint)
 		if err != nil {
 			panic(err)
 		}
 		switch opMatches[1] {
 		case "+":
-			return func(old int) int {
-				return old + number
+			return func(old *big.Int) *big.Int {
+				return old.Add(old, number)
 			}
 		case "*":
-			return func(old int) int {
-				return old * number
+			return func(old *big.Int) *big.Int {
+				return old.Mul(old, number)
 			}
 		}
 	}
 	panic("Could not parse Operation")
 }
 
-func parseNext(lines []string) func(int) int {
+func parseNext(lines []string) func(*big.Int) int {
 	// Test: divisible by 23
 	re := regexp.MustCompile(`Test: divisible by (\d+)`)
 	match := re.FindStringSubmatch(lines[0])
-	divisor, err := strconv.Atoi(match[1])
+	divisorUint, err := strconv.ParseInt(match[1], 10, 64)
+	divisor := big.NewInt(divisorUint)
 	if err != nil {
 		panic(err)
 	}
@@ -188,8 +200,8 @@ func parseNext(lines []string) func(int) int {
 	if err != nil {
 		panic(err)
 	}
-	return func(worry int) (monkey int) {
-		if worry%divisor == 0 {
+	return func(worry *big.Int) (monkey int) {
+		if mod := big.NewInt(0).Mod(worry, divisor); mod.Cmp(zero) == 0 {
 			return trueMonkey
 		}
 		return falseMonkey
