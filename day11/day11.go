@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"math/big"
 	"os"
 	"regexp"
 	"sort"
@@ -11,20 +10,16 @@ import (
 	"strings"
 )
 
-const InputFile = "day11/demo.txt"
-
-var zero = big.NewInt(0)
+const InputFile = "day11/input.txt"
 
 func main() {
-	part1 := monkeyBusiness(big.NewInt(3), 20)
+	part1 := MonkeyBusiness(20, 3)
 	fmt.Printf("(Part 1) Monkey Business: %d \n", part1)
-	fmt.Println()
-	part2 := monkeyBusiness(nil, 10000)
-	fmt.Printf("(Part 2) Monkey Business: %d \n", part2)
-
+	part2 := MonkeyBusiness(10000, 1)
+	fmt.Printf("(Part 1) Monkey Business: %d \n", part2)
 }
 
-func monkeyBusiness(worryDivisor *big.Int, rounds int) int {
+func MonkeyBusiness(rounds, worryDivisor int) int {
 	f, err := os.Open(InputFile)
 	if err != nil {
 		panic(fmt.Sprintf("Could not open file %v \n", err))
@@ -34,11 +29,12 @@ func monkeyBusiness(worryDivisor *big.Int, rounds int) int {
 	scanner := bufio.NewScanner(f)
 	var section []string
 	var monkeys []Monkey
+	divisorProduct := 1
 	for scanner.Scan() {
 		line := scanner.Text()
 		if line == "" {
-			monkey := ParseMonkey(section)
-			fmt.Println(monkey)
+			monkey, divisor := ParseMonkey(section)
+			divisorProduct *= divisor
 			monkeys = append(monkeys, monkey)
 			section = []string{}
 			continue
@@ -46,19 +42,21 @@ func monkeyBusiness(worryDivisor *big.Int, rounds int) int {
 		section = append(section, line)
 	}
 	if len(section) > 0 {
-		monkeys = append(monkeys, ParseMonkey(section))
+		monkey, divisor := ParseMonkey(section)
+		divisorProduct *= divisor
+		monkeys = append(monkeys, monkey)
 	}
 
 	for round := 1; round <= rounds; round++ {
 		fmt.Printf("===== Round %2d =====\n", round)
 		for i := range monkeys {
-			monkeys[i].ThrowItems(&monkeys, worryDivisor)
+			monkeys[i].ThrowItems(&monkeys, worryDivisor, divisorProduct)
 		}
 		for i := range monkeys {
 			fmt.Println(monkeys[i])
 		}
+		fmt.Println()
 	}
-	fmt.Println()
 
 	if err := scanner.Err(); err != nil {
 		panic(err)
@@ -69,47 +67,45 @@ func monkeyBusiness(worryDivisor *big.Int, rounds int) int {
 	})
 
 	return monkeys[0].InspectionCount * monkeys[1].InspectionCount
-
 }
 
 type Monkey struct {
 	ID              int
-	Items           []*big.Int
-	Op              func(*big.Int) *big.Int
-	Next            func(*big.Int) int
+	Items           []int
+	Op              func(int) int
+	Next            func(int) int
 	InspectionCount int
 }
 
-func (m *Monkey) ThrowItems(monkeys *[]Monkey, worryDivisor *big.Int) {
-	for _, item := range m.Items {
-		m.Op(item)
+func (m *Monkey) ThrowItems(monkeys *[]Monkey, worryDivisor int, modDivisor int) {
+	for _, worry := range m.Items {
+		worry = m.Op(worry)
 		m.InspectionCount++
-		if worryDivisor != nil {
-			item.Div(item, worryDivisor)
-		}
-		next := m.Next(item)
-		(*monkeys)[next].Catch(item)
+		worry /= worryDivisor
+		worry %= modDivisor
+		next := m.Next(worry)
+		(*monkeys)[next].Catch(worry)
 	}
 	m.Items = nil
 }
 
-func (m *Monkey) Catch(item *big.Int) {
+func (m *Monkey) Catch(item int) {
 	m.Items = append(m.Items, item)
 }
 
 func (m Monkey) String() string {
-	return fmt.Sprintf("Monkey %d: %d Items inspected", m.ID, m.InspectionCount)
+	return fmt.Sprintf("Monkey %d: %d (%d Items inspected)", m.ID, m.Items, m.InspectionCount)
 }
 
 // Parser
 
-func ParseMonkey(lines []string) Monkey {
+func ParseMonkey(lines []string) (Monkey, int) {
 	id := parseID(lines[0])
 	items := parseStartingNumbers(lines[1])
 	opFn := parseOp(lines[2])
-	nextFn := parseNext(lines[3:])
+	nextFn, divisor := parseNext(lines[3:])
 
-	return Monkey{id, items, opFn, nextFn, 0}
+	return Monkey{id, items, opFn, nextFn, 0}, divisor
 }
 
 func parseID(line string) (id int) {
@@ -122,21 +118,21 @@ func parseID(line string) (id int) {
 	return
 }
 
-func parseStartingNumbers(line string) (items []*big.Int) {
+func parseStartingNumbers(line string) (items []int) {
 	//   Starting items: 79, 98
 	re := regexp.MustCompile(`Starting items: ((?:\d+(?:, )?)+)`)
 	itemsMatchStr := re.FindStringSubmatch(line)[1]
 	for _, itemStr := range strings.Split(itemsMatchStr, ", ") {
-		item, err := strconv.ParseInt(itemStr, 10, 64)
+		item, err := strconv.Atoi(itemStr)
 		if err != nil {
 			panic(err)
 		}
-		items = append(items, big.NewInt(item))
+		items = append(items, item)
 	}
 	return
 }
 
-func parseOp(line string) (opFn func(*big.Int) *big.Int) {
+func parseOp(line string) (opFn func(int) int) {
 	// Operation: new = old * 19
 	re := regexp.MustCompile(`Operation: new = old (\+|\*) (\d+|old)`)
 	opMatches := re.FindStringSubmatch(line)
@@ -144,40 +140,38 @@ func parseOp(line string) (opFn func(*big.Int) *big.Int) {
 	if opMatches[2] == "old" {
 		switch opMatches[1] {
 		case "+":
-			return func(old *big.Int) *big.Int {
-				return old.Add(old, old)
+			return func(old int) int {
+				return old + old
 			}
 		case "*":
-			return func(old *big.Int) *big.Int {
-				return old.Mul(old, old)
+			return func(old int) int {
+				return old * old
 			}
 		}
 	} else {
-		numberUint, err := strconv.ParseInt(opMatches[2], 10, 64)
-		number := big.NewInt(numberUint)
+		number, err := strconv.Atoi(opMatches[2])
 		if err != nil {
 			panic(err)
 		}
 		switch opMatches[1] {
 		case "+":
-			return func(old *big.Int) *big.Int {
-				return old.Add(old, number)
+			return func(old int) int {
+				return old + number
 			}
 		case "*":
-			return func(old *big.Int) *big.Int {
-				return old.Mul(old, number)
+			return func(old int) int {
+				return old * number
 			}
 		}
 	}
 	panic("Could not parse Operation")
 }
 
-func parseNext(lines []string) func(*big.Int) int {
+func parseNext(lines []string) (func(int) int, int) {
 	// Test: divisible by 23
 	re := regexp.MustCompile(`Test: divisible by (\d+)`)
 	match := re.FindStringSubmatch(lines[0])
-	divisorUint, err := strconv.ParseInt(match[1], 10, 64)
-	divisor := big.NewInt(divisorUint)
+	divisor, err := strconv.Atoi(match[1])
 	if err != nil {
 		panic(err)
 	}
@@ -200,11 +194,11 @@ func parseNext(lines []string) func(*big.Int) int {
 	if err != nil {
 		panic(err)
 	}
-	return func(worry *big.Int) (monkey int) {
-		if mod := big.NewInt(0).Mod(worry, divisor); mod.Cmp(zero) == 0 {
+	return func(worry int) (monkey int) {
+		if worry%divisor == 0 {
 			return trueMonkey
 		}
 		return falseMonkey
-	}
+	}, divisor
 
 }
